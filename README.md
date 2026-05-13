@@ -30,9 +30,6 @@ A high-performance URL shortening service designed with Spring Boot.
 
 ---
 
-### 📊 GitHub Stats
-![Prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prasadzoman&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasadzoman&layout=compact&theme=radical)
 
 ### 📫 Connect with me:
 * [LinkedIn](https://www.linkedin.com/in/prasad-zoman-9854882b7)
