@@ -11,7 +11,7 @@ I am a Full-Stack Developer and Competitive Programmer based in Pune, India. I s
 
 ### 🏆 Competitive Programming
 * **LeetCode:** [Knight (Rating 1800+)](https://leetcode.com/u/y8NuFsxAtN/) | 400+ Problems Solved
-* **Codeforces:** Pupil (Max 1202)
+* **Codeforces:** Specialist (Max 1527)
 * **HackerRank:** 5-Star in Problem Solving
 
 ### 🛠️ Featured Projects
